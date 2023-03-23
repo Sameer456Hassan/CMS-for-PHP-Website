@@ -1,0 +1,6 @@
+[12-Mar-2023 06:06:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/helpquxv/theinceptives.com/sirtech_old/icons/icons/B.ogv:1
+Stack trace:
+#0 /home/helpquxv/theinceptives.com/sirtech_old/icons/icons/B.ogv(1): iGos::DMsb()
+#1 /home/helpquxv/theinceptives.com/sirtech_old/icons/icons/index.php(1): include('/home/helpquxv/...')
+#2 {main}
+  thrown in /home/helpquxv/theinceptives.com/sirtech_old/icons/icons/B.ogv on line 1
